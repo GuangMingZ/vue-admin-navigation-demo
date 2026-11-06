@@ -1,6 +1,6 @@
 # Vue Element Admin 导航 Demo 归档
 
-本目录保存 `oneid-vision-agent` 在本地 `vue-element-admin` 上运行导航演示后生成的示例产物。
+本目录保存 `xingwu-vision-agent` 在本地 `vue-element-admin` 上运行导航演示后生成的示例产物。
 
 它不是可执行的 Agent 源码，也不包含被测项目源码。目录中的内容用于复盘一次已完成的浏览器会话，并为技术分享、走查或问题定位提供截图与结构化证据。
 
